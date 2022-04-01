@@ -1,4 +1,4 @@
-package cat.uvic.teknos.m06.java2gradle;
+package oo;
 
 interface Square {
     int getSide();

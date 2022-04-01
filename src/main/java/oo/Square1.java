@@ -1,4 +1,4 @@
-package cat.uvic.teknos.m06.java2gradle;
+package oo;
 
 public class Square1 implements Square, Printable {
     static final int version = 1;
